@@ -1,0 +1,9 @@
+name: Calendar Links
+description: Add a calendar links formatter to DateTimeRange fields.
+package: "Date/time"
+
+type: module
+core: 8.x
+
+dependencies:
+  - datetime_range:datetime_range
